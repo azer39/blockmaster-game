@@ -1,0 +1,10 @@
+name: BlockMaster
+author: azer
+version: 1.0
+main: levitation.group.main
+api-version: 1.13
+
+commands:
+  setspawn:
+  start:
+  end:
